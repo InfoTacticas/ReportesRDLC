@@ -1,0 +1,13 @@
+﻿@using ReportePruebaTutorial01.Models;
+@{
+    List<BeGrupoProducto> listado = ViewBag.listadoGrupoProducto;
+    String Id = (ViewBag.Id != null) ? ViewBag.Id : "DropdownGrupoProducto";
+}
+
+
+<select id="@Id" name="@Id">
+    <option value="-1">Seleccionar</option>
+    @foreach (BeGrupoProducto obj in listado) {         
+        <option value="@obj.IdGrupoProducto">@obj.Descripcion</option>    
+    }
+</select>

@@ -1,0 +1,5 @@
+D:\_ASESORIAS\REPORT VIEWER\01_ReportesBasicosRDLC\01_ReportesBasicosRDLC\bin\01_ReportesBasicosRDLC.dll
+D:\_ASESORIAS\REPORT VIEWER\01_ReportesBasicosRDLC\01_ReportesBasicosRDLC\bin\01_ReportesBasicosRDLC.pdb
+D:\_ASESORIAS\REPORT VIEWER\01_ReportesBasicosRDLC\01_ReportesBasicosRDLC\obj\Debug\01_ReportesBasicosRDLC.dll
+D:\_ASESORIAS\REPORT VIEWER\01_ReportesBasicosRDLC\01_ReportesBasicosRDLC\obj\Debug\01_ReportesBasicosRDLC.pdb
+D:\_ASESORIAS\REPORT VIEWER\01_ReportesBasicosRDLC\01_ReportesBasicosRDLC\obj\Debug\01_ReportesBasicosRDLC.csprojResolveAssemblyReference.cache
